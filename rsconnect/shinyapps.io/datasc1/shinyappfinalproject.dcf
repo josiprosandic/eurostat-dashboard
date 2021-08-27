@@ -1,0 +1,11 @@
+name: shinyappfinalproject
+title:
+username:
+account: datasc1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4334581
+bundleId: 4769977
+url: https://datasc1.shinyapps.io/shinyappfinalproject/
+when: 1624990126.08162
+lastSyncTime: 1624990126.08164
